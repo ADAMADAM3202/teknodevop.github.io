@@ -1,0 +1,105 @@
+body{
+
+
+	background-color: #3f1919;
+}
+p{
+
+
+	color: #fff;
+	text-align: center;
+	font-family: ;
+}
+h1{
+
+
+color: #fff;
+text-align: center;
+
+ 
+margin-right:auto;
+margin-left:auto;
+}
+.tab{
+
+
+ 
+margin-right:auto;
+margin-left:auto;
+text-align: center;
+}
+
+
+
+.rs{
+
+width: 36%;
+	background-color: black;
+}
+/*
+SELAMIN ALEYKÜM MÜMİN KARDEŞİM SAKIN HA KODLARI KOPYALAMA SİKERİM
+
+
+*/
+.xx{
+
+
+	color: #fff;
+
+}
+.as{
+width: 40%;
+
+	border-color: #fff;
+
+}
+.ass{
+	height: 400px;
+}
+
+a{
+
+font-size: 30px;
+
+text-decoration: none;
+
+}
+
+.kutu{width: 50%;
+      padding: 3%;
+      border: 1% solid black;
+      margin: 0%;
+      background-color: #3f1919;
+
+
+      }
+      .renks{
+
+font-color;red;
+
+
+      }
+      .ssss{
+
+
+      	border-color: black;
+      }
+      .er{
+
+
+      	background-color: black;
+      	text-decoration-color: #fff;
+      	border-color: gray;
+      	color: #fff;
+
+      }
+      @media screen and (max-width:  768px) {
+
+  .content{
+
+
+  }
+  .ssss,.er,.renks,.kutu,a,.as,.xx,.rs.tab,h1,p{
+  	width: 100%;
+  }
+  }
